@@ -1,6 +1,6 @@
 {
-  "name": "@websee/performance",
-  "version": "4.0.2",
+  "name": "@yaww-websee/performance",
+  "version": "1.0.0",
   "description": "",
   "main": "src/index.ts",
   "module": "dist/index.esm.js",
@@ -11,16 +11,16 @@
   "files": [
     "dist"
   ],
-  "author": "海阔天空",
+  "author": "yaww",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git@github.com:xy-sea/web-see.git"
   },
   "dependencies": {
-    "@websee/common": "workspace:*",
-    "@websee/types": "workspace:*",
-    "@websee/utils": "workspace:*",
+    "@yaww-websee/common": "workspace:*",
+    "@yaww-websee/types": "workspace:*",
+    "@yaww-websee/utils": "workspace:*",
     "web-vitals": "^3.1.0"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "name": "@websee/core",
-  "version": "4.0.2",
+  "name": "@yaww-websee/core",
+  "version": "1.0.0",
   "description": "",
   "main": "src/index.ts",
   "module": "dist/index.esm.js",
@@ -11,12 +11,12 @@
   "files": [
     "dist"
   ],
-  "author": "海阔天空",
+  "author": "yaww",
   "license": "ISC",
   "dependencies": {
-    "@websee/common": "workspace:*",
-    "@websee/types": "workspace:*",
-    "@websee/utils": "workspace:*"
+    "@yaww-websee/common": "workspace:*",
+    "@yaww-websee/types": "workspace:*",
+    "@yaww-websee/utils": "workspace:*"
   },
   "repository": {
     "type": "git",
